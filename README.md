@@ -1,7 +1,7 @@
 # Acerca de mi:
 
 <!--Intro start-->
-- 🔭 Egresado de la licenciatura de Física, tengo una gran pasión por las matemáticas y la programación. Mi formación en física me brinda el razonamiento necesario para resolver problemas complejos, también tengo experiencia en trabajar con datos de sistemas reales. Así mismo, cuento con la habilidad de formular y probar hipótesis de problemas para abordar desafíos en el mundo de la ciencia de datos.
+- 🔭 Egresado de la licenciatura en Física, tengo una gran pasión por las matemáticas y la programación. Mi formación en física me brinda el razonamiento necesario para resolver problemas complejos, también tengo experiencia en trabajar con datos de sistemas reales. Así mismo, cuento con la habilidad de formular y probar hipótesis de problemas para abordar desafíos en el mundo de la ciencia de datos.
 
 <Br>
 <h1 align="left">Experiencia en:</h1>
