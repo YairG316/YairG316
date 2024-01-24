@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-<a href="https://scikit-learn.org/" target="blank"><img align="center" src="https://camo.githubusercontent.com/bcc390db791bb02b31508cb543438d6358d4272832b829e7773193f6bc704e66/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f532f7363696b69742d6c6561726e2d6c6f676f2d383736364430374532452d7365656b6c6f676f2e636f6d2e706e67" alt="Sklearn" height="90" width="130" /></a>
+<a href="https://scikit-learn.org/" target="blank"><img align="center" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Sklearn" height="50" width="130" /></a>
 <a href="https://www.tensorflow.org/?hl=es-419" target="blank"><img align="center" src="https://www.gstatic.com/devrel-devsite/prod/v8332a5cec2b627575422eb634078b4a9892f3eac6f9006e54b6e9bbf0bfda91f/tensorflow/images/lockup.svg" alt="Tensorflow" height="80" width="130" /></a> 
 <a href="https://keras.io/" target="blank"><img align="center" src="https://keras.io/img/logo.png" alt="Keras" height="35" width="100" /></a> 
 <a href="https://www.mysql.com/" target="blank"><img align="center" src=https://hoplasoftware.com/wp-content/uploads/2021/07/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png alt="MySql" height="50" width="100" /></a> 
@@ -52,7 +52,7 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.google.com/intl/es-419/gmail/about/" target="blank"><img align="center" src="https://camo.githubusercontent.com/af0f6da09b551cae1458ef7f0c0832de63f9cdda72fa68375a3f82f0be91d065/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f472f676d61696c2d6e65772d323032302d6c6f676f2d333244424531314242342d7365656b6c6f676f2e636f6d2e706e67" alt="Gmail" height="40" width="50" /></a>
+<a href="https://www.google.com/intl/es-419/gmail/about/" target="blank"><img align="center" src="https://www.google.com/gmail/about/static-2.0/images/logo-gmail.png?fingerprint=c2eaf4aae389c3f885e97081bb197b97" alt="Gmail" height="50" width="50" /></a>
 
 </p>
 <!--
